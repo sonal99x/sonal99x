@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-link.com/profile-banner.png" alt="Sonal Profile Banner" width="100%" style="border-radius: 10px;"/>
+  <img src="https://drive.google.com/uc?export=download&id=1AvZVoXzTJmo_V_hH6JDI3yT6rBNqurkW" alt="Sonal Profile Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-height: 300px; object-fit: cover;"/>
   <h1>👋 Hi, I'm Sonal! 🚀</h1>
   <p>
     <strong>Full-Stack Software Developer | Innovator | Founder of Nextide Solutions</strong><br/>
