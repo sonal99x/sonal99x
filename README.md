@@ -1,7 +1,3 @@
-I understand you want a README for your personal GitHub profile (for the username **sonal99x**), not for a specific project like AgriConnect. A GitHub profile README is a great way to showcase who you are, your skills, projects, and how to connect with you. I’ll create a polished, professional README based on the details you provided in your portfolio, incorporating your projects (AgriConnect, AXIOM, MyFinanceMate, Nextide), tech stack, achievements, and contact info. The README will be engaging, concise, and aligned with your branding as a **Full-Stack Developer** and **Founder of Nextide Solutions**.
-
-
-
 # 👋 Hi, I'm Sonal Fernando! 🚀
 
 **Full-Stack Software Developer | Innovator | Founder of [Nextide Solutions](https://nextidesolutions.com)**
