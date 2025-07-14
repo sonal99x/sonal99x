@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-link.com/profile-banner.png" alt="Profile Banner" width="100%" style="border-radius: 10px;"/>
+  <img src="https://your-image-link.com/profile-banner.png" alt="Sonal Profile Banner" width="100%" style="border-radius: 10px;"/>
   <h1>👋 Hi, I'm Sonal! 🚀</h1>
   <p>
     <strong>Full-Stack Software Developer | Innovator | Founder of Nextide Solutions</strong><br/>
@@ -102,5 +102,5 @@ I'm a **Full-Stack Developer** with **5+ years of experience** and the **Founder
 
 <div align="center">
   <p><i>Let’s code the future together! 🚀</i></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF00&size=20&center=true&vCenter=true&lines=Code.+Innovate.+Impact." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF00&size=20¢er=true&vCenter=true&lines=Code.+Innovate.+Impact." alt="Typing SVG"/>
 </div>
