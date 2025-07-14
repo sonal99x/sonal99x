@@ -1,20 +1,40 @@
-# 👋 Hi, I'm Sonal Fernando! 🚀
+<div align="center">
+  <h1>🚀 Sonal Fernando</h1>
+  <h3>Full-Stack Developer | Founder of <a href="https://nextidesolutions.com">Nextide Solutions</a> | Web3 & AI Innovator</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FFAA¢er=true&vCenter=true&width=600&lines=Code.+Innovate.+Impact.;Building+Scalable+Web+Solutions;Empowering+Ideas+with+Technology" alt="Typing SVG" />
+  <br>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding GIF" />
+</div>
 
-**Full-Stack Software Developer | Innovator | Founder of [Nextide Solutions](https://nextidesolutions.com)**
-
-I'm a passionate developer with **5+ years of experience** building scalable, user-centric web applications. As the founder of **Nextide Solutions**, I’ve led **20+ projects** serving **50+ clients**, delivering impactful solutions with modern tech stacks. My mission? *Transform ideas into reality through code and creativity.*
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sonal99x&style=flat-square&color=blue)](https://github.com/sonal99x)
+<div align="center">
+  <a href="https://github.com/sonal99x">
+    <img src="https://komarev.com/ghpvc/?username=sonal99x&style=flat-square&color=00FFAA&label=Profile+Views" alt="Profile Views" />
+  </a>
+  <a href="https://linkedin.com/in/sonal-fernando1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://sonal-shaminda.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sonalshaminda01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://nextidesolutions.com">
+    <img src="https://img.shields.io/badge/Nextide_Solutions-00FFAA?style=flat-square&logo=website&logoColor=black" alt="Nextide" />
+  </a>
+</div>
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
-- 🔭 **Currently working on**: Scaling Nextide Solutions’ SaaS platform, serving **1,000+ active users**.
-- 🌱 **Learning**: Web3 smart contracts and advanced AI/ML integrations.
-- 👯 **Open to collaborate on**: Open-source tools, SaaS startups, and tech-for-good initiatives.
-- 🤔 **Looking for help with**: Optimizing cloud infrastructure and Web3 scalability.
-- ⚡ **Fun fact**: Built a full-stack app in **48 hours** and won first place at a hackathon!
+I’m a passionate **Full-Stack Software Developer** with **5+ years** of experience building scalable, user-focused web applications. As the founder of **[Nextide Solutions](https://nextidesolutions.com)**, I’ve led **20+ projects** for **50+ clients**, delivering innovative solutions using modern tech stacks. My mission is to *transform ideas into reality through code, creativity, and cutting-edge technology*.
+
+- 🔭 **Currently Working On**: Scaling Nextide’s SaaS platform, serving **1,000+ active users**.
+- 🌱 **Learning**: Web3 smart contracts, advanced AI/ML integrations, and blockchain scalability.
+- 👯 **Open to Collaborate**: On open-source projects, SaaS startups, and tech-for-good initiatives.
+- 🤔 **Seeking Expertise**: Optimizing cloud infrastructure and Web3 performance.
+- ⚡ **Fun Fact**: Built a full-stack app in **48 hours** and won **1st place** at a hackathon!
 
 ---
 
@@ -32,30 +52,38 @@ I'm a passionate developer with **5+ years of experience** building scalable, us
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-- **Frontend**: React (3+ years), Next.js (2+ years), Vue.js, Tailwind CSS
+### 🔍 Expertise
+- **Frontend**: React (3+ years), Next.js (2+ years), Vue.js, Tailwind CSS, Framer Motion
 - **Backend**: Node.js (4+ years), Express, Django, GraphQL, REST APIs, PHP
 - **Databases**: MongoDB (100+ collections), PostgreSQL, MySQL, Redis
-- **DevOps**: Docker (10+ apps), AWS (5+ projects), GitHub Actions
-- **Others**: Web3 (Ethereum smart contracts), AI/ML (TensorFlow, AssemblyAI)
+- **DevOps**: Docker (10+ apps), AWS (5+ projects), GitHub Actions, CI/CD
+- **Emerging Tech**: Web3 (Ethereum, Solidity), AI/ML (TensorFlow, AssemblyAI)
+
+### 📈 Skill Levels
+![JavaScript](https://progress-bar.dev/90/?title=JavaScript&width=200&color=00FFAA)
+![React](https://progress-bar.dev/85/?title=React&width=200&color=00FFAA)
+![Node.js](https://progress-bar.dev/88/?title=Node.js&width=200&color=00FFAA)
+![Python](https://progress-bar.dev/80/?title=Python&width=200&color=00FFAA)
+![AWS](https://progress-bar.dev/75/?title=AWS&width=200&color=00FFAA)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Nextide SaaS Platform](https://github.com/sonal99x/Nextide)
-A scalable SaaS solution built with **React**, **Spring Boot**, **Firebase**, and **JWT**, serving **1,000+ active users**. Reduced client operational costs by **20%** through automation.  
+### 🌐 [Nextide SaaS Platform](https://github.com/sonal99x/Nextide)
+A scalable SaaS solution built with **React**, **Spring Boot**, **Firebase**, and **JWT**. Serves **1,000+ users**, reducing operational costs by **20%** through automation.  
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/sonal99x/Nextide?style=social)
 
-### [AgriConnect](https://github.com/sonal99x/agriconnect)
-A **MERN-stack** platform connecting farmers and buyers with real-time order management and analytics. Supports **secure authentication** and **mobile-responsive UI**.  
+### 🌾 [AgriConnect](https://github.com/sonal99x/agriconnect)
+A **MERN-stack** platform connecting farmers and buyers with real-time order management and analytics. Features **secure authentication** and **mobile-responsive UI**.  
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/sonal99x/agriconnect?style=social)
 
-### [AXIOM](https://github.com/sonal99x/Axiom)
-A **PHP/MySQL** web platform with user management, activity tracking, and responsive design. Features **secure authentication** and **dynamic content generation**.  
+### 🔒 [AXIOM](https://github.com/sonal99x/Axiom)
+A **PHP/MySQL** platform with user management, activity tracking, and responsive design. Built for **security** and **dynamic content generation**.  
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/sonal99x/Axiom?style=social)
 
-### [MyFinanceMate](https://github.com/sonal99x/MyFinanceMate)
-A **Next.js** finance app with **voice-controlled budgeting** via **AssemblyAI**, offering data visualization and responsive design.  
+### 💸 [MyFinanceMate](https://github.com/sonal99x/MyFinanceMate)
+A **Next.js** finance app with **voice-controlled budgeting** via **AssemblyAI**, offering rich data visualization and responsive design.  
 ⭐ ![GitHub stars](https://img.shields.io/github/stars/sonal99x/MyFinanceMate?style=social)
 
 ---
@@ -63,33 +91,42 @@ A **Next.js** finance app with **voice-controlled budgeting** via **AssemblyAI**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonal99x&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal99x&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonal99x&show_icons=true&theme=transparent&border_color=00FFAA&title_color=00FFAA&text_color=FFFFFF&bg_color=1A1B27" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal99x&layout=compact&theme=transparent&border_color=00FFAA&title_color=00FFAA&text_color=FFFFFF&bg_color=1A1B27" alt="Top Languages" width="300" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonal99x&theme=transparent&border=00FFAA&ring=00FFAA&fire=FF5733&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFAA" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonal99x&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🏆 Achievements
 
-- **Hackathon Winner**: First place at **TechCrunch Disrupt 2024**.
-- **Open Source**: Contributed to **10+ GitHub repositories**.
-- **Certified**: **AWS Certified Developer – Associate (2023)**.
-- **Impact**: Grew Nextide Solutions to serve **50+ clients**.
+- 🏅 **Hackathon Champion**: **1st Place** at **Global Dev Hackathon 2024**.
+- 🌍 **Open Source Contributor**: Impacted **10+ GitHub repositories** with meaningful contributions.
+- 📜 **Certified**: **AWS Certified Developer – Associate (2023)**.
+- 🚀 **Entrepreneur**: Scaled **Nextide Solutions** to serve **50+ clients** globally.
 
 ---
 
-## 📬 Get in Touch
+## 📬 Connect with Me
 
-- **Email**: [sonalshaminda01@gmail.com](mailto:sonalshaminda01@gmail.com)
-- **Portfolio**: [sonal-shaminda.netlify.app](https://sonal-shaminda.netlify.app/)
-- **LinkedIn**: [linkedin.com/in/sonal-fernando1](https://linkedin.com/in/sonal-fernando1)
-- **Company**: [Nextide Solutions](https://nextidesolutions.com)
-- **Company Email**: [nextide.info@gmail.com](mailto:nextide.info@gmail.com)
+<div align="center">
+  <a href="mailto:sonalshaminda01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://sonal-shaminda.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/sonal-fernando1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nextidesolutions.com"><img src="https://img.shields.io/badge/Nextide_Solutions-00FFAA?style=flat-square&logo=website&logoColor=black" alt="Nextide" /></a>
+  <a href="mailto:nextide.info@gmail.com"><img src="https://img.shields.io/badge/Company_Email-FF9900?style=flat-square&logo=gmail&logoColor=white" alt="Company Email" /></a>
+</div>
 
 ---
 
 <div align="center">
-  <p><i>Let’s code the future together! 🚀</i></p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF00&size=20&center=true&vCenter=true&lines=Code.+Innovate.+Impact." alt="Typing SVG" />
+  <p><strong>Let’s build the future, one line of code at a time! 🚀</strong></p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Coding GIF" />
 </div>
-
