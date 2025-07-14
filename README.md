@@ -75,8 +75,7 @@ Here are some of my proudest creations:
 
 System: The provided GitHub README content has been transformed into a professional, visually appealing, and structured version tailored to your profile as a full-stack developer and founder of Nextide Solutions. Below is the continuation of the README, completing the projects section and adding additional sections for a polished look.
 
-```markdown
-### [AI-Powered Task Manager](https://github.com/sonal99x/ai-task-manager)
+ [AI-Powered Task Manager](https://github.com/sonal99x/ai-task-manager)
 - A smart task management app using AI to prioritize tasks, built with Python and React.
 - Features: Natural language input, predictive scheduling, and cross-platform support.
 - ⭐ Stars: <image-card alt="GitHub stars" src="https://img.shields.io/github/stars/sonal99x/ai-task-manager?style=social" ></image-card>
