@@ -4,10 +4,12 @@
       .profile-banner {
         max-width: 100%;
         height: auto;
-        max-height: 300px;
+        max-height: 250px; /* Reduced from 300px for better fit */
         border-radius: 10px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         object-fit: cover;
+        display: block; /* Ensures proper alignment */
+        margin: 0 auto; /* Centers the image */
       }
       .container {
         text-align: center;
@@ -48,10 +50,10 @@
       <img src="https://komarev.com/ghpvc/?username=sonal99x&style=flat-square&color=blue" alt="Profile Views"/>
     </div>
     ---
-    🌟 About Me
+    ## 🌟 About Me
     I'm a **Full-Stack Developer** with **5+ years of experience** and the **Founder of Nextide Solutions**, where I’ve led 20+ projects serving 50+ clients. My passion lies in building scalable, user-centric applications using modern tech stacks. I’m also an active open-source contributor with **10+ repository contributions** and a **2x hackathon winner**.
 
-  - 🔭 **Currently working on**: Nextide Solutions’ SaaS platform, serving 1,000+ active users.
+    - 🔭 **Currently working on**: Nextide Solutions’ SaaS platform, serving 1,000+ active users.
     - 🌱 **Learning**: Web3 smart contracts and advanced AI/ML integrations.
     - 👯 **Open to collaborate on**: Open-source tools, SaaS startups, and tech-for-good initiatives.
     - 🤔 **Looking for help with**: Optimizing cloud infrastructure and Web3 scalability.
