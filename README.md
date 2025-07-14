@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=1AvZVoXzTJmo_V_hH6JDI3yT6rBNqurkW" alt="Sonal Profile Banner" style="max-width: 100%; max-height: 200px; width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); object-fit: cover; display: block; margin: 0 auto;"/>
+  <img src="https://drive.google.com/uc?export=download&id=1AvZVoXzTJmo_V_hH6JDI3yT6rBNqurkW" alt="Sonal Profile Banner" style="max-width: 100%; max-height: 150px; width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); object-fit: cover; display: block; margin: 0 auto;"/>
   <h1>👋 Hi, I'm Sonal! 🚀</h1>
   <p>
     <strong>Full-Stack Software Developer | Innovator | Founder of Nextide Solutions</strong><br/>
