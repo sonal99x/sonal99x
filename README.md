@@ -97,9 +97,8 @@
 <br />
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonal99x&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=4" alt="sonal99x trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonal99x&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br />
