@@ -96,14 +96,7 @@
 
 <br />
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonal99x&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonal99x&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sonal99x" style="margin: 10px;" />
